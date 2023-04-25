@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: linear-gradient(to right,rgb(220, 177, 220),rgb(215, 184, 215));
+}
+
+
+
+u {
+    font-size: 2rem;
+    text-shadow: rgb(247, 140, 239) 1px 0 10px;
+   
+}
+
+
+.continer-fluid {
+    width: 100%;
+    text-align: center;
+}
+
+.container {
+     width: 50%;
+     height: 100%;
+     background: transparent;
+     
+}
+
+
